@@ -1,3 +1,5 @@
-.in,
-.out
-.pyc
+# Ignores the following extensions
+*.in
+*.out
+*.pyc
+
