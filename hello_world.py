@@ -1,4 +1,1 @@
-# Hello Wolrd Tuni
-
-print("Hello World!")
-
+print("Hello world!")
